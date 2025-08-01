@@ -8,9 +8,9 @@ import Counter2 from "./components/counter/Counter2.jsx";
 import ImageComp from "./components/imagecomp/ImageComp.jsx";
 import UserNames from "./components/user-names/UserNames.jsx";
 
-import Electronics from "./components/products/Categories/Electronics/Electronics.jsx";
+import Electronics from "./components/products/categories/electronics/Electronics.jsx";
 
-import Jewelery from "./components/products/Categories/Jewelery/Jewelery.jsx";
+import Jewelery from "./components/products/categories/jewelery/Jewelery.jsx";
 
 import MensClothing from "./components/products/categories/mensclothing/MensClothing.jsx";
 
